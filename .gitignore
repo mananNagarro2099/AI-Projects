@@ -1,3 +1,5 @@
+PDF-extractor/venv/
+PDF-extractor/.env
 QnA-chat-bot/venv/
 QnA-chat-bot/.env
 .DS_Store
