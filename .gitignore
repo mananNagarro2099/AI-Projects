@@ -2,4 +2,7 @@ PDF-extractor/venv/
 PDF-extractor/.env
 QnA-chat-bot/venv/
 QnA-chat-bot/.env
+PDF-doc-reader/venv/
+PDF-doc-reader/.env/
+PDF-doc-reader/faiss_index/
 .DS_Store
