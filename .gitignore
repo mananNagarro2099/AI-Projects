@@ -8,4 +8,6 @@ PDF-doc-reader/faiss_index/
 Text-to-sql/.env
 Text-to-sql/student.db
 Text-to-sql/venv
+DOC-reader-using-gemma/venv
+DOC-reader-using-gemma/.env
 .DS_Store
