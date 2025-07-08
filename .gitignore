@@ -5,4 +5,7 @@ QnA-chat-bot/.env
 PDF-doc-reader/venv/
 PDF-doc-reader/.env/
 PDF-doc-reader/faiss_index/
+Text-to-sql/.env
+Text-to-sql/student.db
+Text-to-sql/venv
 .DS_Store
